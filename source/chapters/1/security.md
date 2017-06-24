@@ -5,7 +5,7 @@ disqusPage: 'Chapter 1: Security'
 ---
 
 Security is a very important aspect of any application. When your code-base grows,
-you need to more and more careful on how you handle this. We'll show you first how we can
+you need to be more and more careful on how you handle this. We'll show you first how we can
 secure our methods and publications, then you will be shown some tips and tricks to handle 
 it for an evergrowing code base.
 
